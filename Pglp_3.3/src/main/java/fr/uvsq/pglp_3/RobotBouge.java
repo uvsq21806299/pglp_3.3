@@ -9,7 +9,7 @@ package fr.uvsq.pglp_3;
  *
  * @author andri
  */
-public class RobotAvance extends Robot{
+public class RobotBouge extends Robot{
     public void avance(){}
     
 }
